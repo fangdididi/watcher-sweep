@@ -1,0 +1,5 @@
+Watcher sweep summary (2026-10-28)
+Verdict: CONCERNING
+Checks run: 10, not run: 17
+Concerning: 1, leads: 2, gaps: 0
+Nothing found in the checks listed here is not proof that nobody is watching. It only covers the items marked checked, on the date of the sweep.

@@ -1,0 +1,18 @@
+{
+  "title": "Mina's phone and accounts",
+  "date": "2026-10-28",
+  "authorized_by_owner": true,
+  "safety": {
+    "in_danger_now": false,
+    "watcher_closeness": "shared_home",
+    "safe_device_available": false,
+    "helpline_offered": true
+  },
+  "signs": [
+    {"id": "S1", "seen": "2026-10-19", "observation": "He quoted a message I only sent to my sister", "channels": ["account", "device"]},
+    {"id": "S2", "seen": "2026-10-23", "observation": "He turned up at the cafe I had not told anyone about", "channels": ["tracker", "device", "people"]},
+    {"id": "S3", "seen": "2026-10-25", "observation": "Phone battery drains overnight even when idle", "channels": ["device"]}
+  ],
+  "devices": [{"id": "phone", "kind": "android", "owner": "self", "managed_by_org": false}],
+  "accounts": [{"id": "mail", "kind": "email"}, {"id": "chat", "kind": "messaging"}]
+}
